@@ -1,4 +1,4 @@
-# DT: Constrained Tetrahedralization Tool
+# CT: Constrained Tetrahedralization Tool
 
 This repository provides the executable tools, partial source code, and experimental data used in the paper "Robust Constrained Tetrahedralization with Steiner-point-free Boundaries".
 
