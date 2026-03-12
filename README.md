@@ -56,8 +56,6 @@ Due to commercial licensing constraints, only the algorithmic components directl
 
 src/dt_opt.cpp
 
-Implements the **volume-based mesh smoothing method** used for mesh quality improvement.
-
 ### Boundary Recovery and FHC-Based Steiner Point Insertion
 
 src/dt.cpp
